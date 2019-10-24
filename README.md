@@ -1,4 +1,4 @@
-# somi
+# MyAwesomeProject.Vue
 
 ## Project setup
 ```
