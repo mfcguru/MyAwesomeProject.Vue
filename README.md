@@ -1,5 +1,8 @@
 # MyAwesomeProject.Vue
 
+## About
+This is the Vue version of the Jabit! React demonstration that can be found here https://github.com/mfcguru/MyAwesomeProject.React.
+
 ## Project setup
 ```
 npm install
