@@ -16,7 +16,6 @@ class AuthService {
   }
 
   register = registerInfo => {
-    console.log(registerInfo)
     const url = process.env.VUE_APP_HOST_URL + '/auth/register'
     return axios.post(url, registerInfo)
   }
